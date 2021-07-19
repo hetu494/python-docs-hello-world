@@ -6,5 +6,5 @@ def hello():
     return "Hello, World!"
 
 @app.route("/bye")
-def hello():
+def bye():
     return "Bye, World!"
